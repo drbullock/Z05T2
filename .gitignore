@@ -1,0 +1,12 @@
+node_modules
+.env
+
+#OZ files
+.openzeppelin
+
+#Truffle files
+build
+
+#Hardhat files
+cache
+artifacts
